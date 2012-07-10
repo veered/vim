@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/lucas/Code/chef-repo'
+let g:netrw_dirhist_2='/Users/lucas/Code/chef-repo/site-cookbooks/django_example'
+let g:netrw_dirhist_3='/Users/lucas/Code/chef-repo/cookbooks/ganglia'
+let g:netrw_dirhist_4='/Users/lucas/Code/chef-repo'
+let g:netrw_dirhist_5='/Users/lucas/src/galois/.git'
